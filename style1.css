@@ -1,0 +1,44 @@
+
+
+#middle {
+    display: inline;
+}
+
+#top {
+    display: block;
+}
+
+#center {
+    text-align: center;
+}
+
+#center1 {
+    text-align: center;
+}
+
+#center2 {
+    text-align: center;
+}
+
+
+#center3 {
+    text-align: center;
+}
+
+.centeruni {
+    text-align: center;
+}
+
+
+.nobullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.pcenter {
+    text-align: center;
+    color: green;
+}
